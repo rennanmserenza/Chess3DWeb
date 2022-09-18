@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+    border-box: none;
+}
+
+.coluna {
+    width: 40px;
+    height: 40px;
+
+    font-size: 10px;
+}
+
+.B {
+    background-color: white;
+}
+
+.P {
+    color: white;
+    background-color: black;
+}
+
+#linha1 {
+    border-top: 1px solid gray;
+}
+
+#linha8 {
+    border-bottom: 1px solid gray;
+}
+
+.linhas {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
